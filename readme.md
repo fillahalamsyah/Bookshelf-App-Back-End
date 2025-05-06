@@ -1,4 +1,4 @@
-# Bookshelf API
+# Bookshelf App Back End
 
 API RESTful untuk mengelola aplikasi rak buku. Proyek ini adalah bagian dari jalur pembelajaran Pengembangan Backend menggunakan Node.js dan Hapi Framework.
 
